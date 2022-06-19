@@ -1,0 +1,63 @@
+﻿@model User
+
+@{
+    ViewData["Title"] = "Login";
+}
+
+<fieldset>
+    <div id="divInterestDeatils"></div>
+    <form >
+        <div>
+            @Html.Label("Username")
+        </div>
+        <div>
+            @Html.TextBox("txtUsername")
+        </div>
+        <div>
+            @Html.Label("Password")
+        </div>
+        <div>
+            @Html.Password("txtPassword")
+            <p hidden id="errorMsg">This paragraph should be hidden.</p>
+        </div>
+
+        <button class="btn btn-outline-dark" id="LoginBtn" onclick="Login(); this.disabled = true; this.value = 'Authenticating...';">Log in</button>
+
+    </form>
+
+    
+<script>
+        function Login() {
+            let userName = document.getElementById('@Html.Id("txtUsername")').value;
+            let passWord = document.getElementById('@Html.Id("txtPassword")').value;
+            $.ajax({
+                type: "POST",
+                url: "/Login/Login/?username=" + userName + "&password=" + passWord,
+                data: {},
+                success: function (response) {
+                    if (response.result == 'Success')
+                    {
+                        window.location.href = "/Flight/Index";
+                    }
+                    else
+                    {
+                        document.getElementById('@Html.Id("errorMsg")').hidden = false;
+                        document.getElementById('LoginBtn').disabled = false;
+                        document.getElementById('LoginBtn').value = 'Log in!';
+                    }
+                },
+                failure: function (response) {
+                    alert("Error, restart page");
+                },
+                error: function (response) {
+                    alert("Error, restart page");
+                }
+            })
+        }
+</script>
+
+</fieldset>
+
+    @section Scripts {
+        @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+    }

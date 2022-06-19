@@ -1,0 +1,53 @@
+@model IEnumerable<Plane>
+
+@{
+    ViewData["Title"] = "Planes";
+}
+
+<h1>Planes</h1>
+
+<p>
+    <a class="btn btn-dark btn-sm" asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Id)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.PlaneType)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.PassengerCapacity)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.BusinessCapacity)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <th>
+                @Html.DisplayFor(modelItem => item.Id)
+            </th>
+            <td>
+                @Html.DisplayFor(modelItem => item.PlaneType)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.PassengerCapacity)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.BusinessCapacity)
+            </td>
+            <td>
+                <a class="btn btn-outline-dark"asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
+                <a class="btn btn-outline-dark"asp-action="Details" asp-route-id="@item.Id">Details</a> |
+                <a class="btn btn-outline-dark"asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
