@@ -1,0 +1,60 @@
+/Users/kostadin/flightmanager/FlightManager/Data/obj/Debug/net5.0/Data.csprojAssemblyReference.cache
+/Users/kostadin/flightmanager/FlightManager/Data/obj/Debug/net5.0/Data.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kostadin/flightmanager/FlightManager/Data/obj/Debug/net5.0/Data.AssemblyInfoInputs.cache
+/Users/kostadin/flightmanager/FlightManager/Data/obj/Debug/net5.0/Data.AssemblyInfo.cs
+/Users/kostadin/flightmanager/FlightManager/Data/obj/Debug/net5.0/Data.csproj.CoreCompileInputs.cache
+/Users/kostadin/flightmanager/FlightManager/Data/bin/Debug/net5.0/Data.deps.json
+/Users/kostadin/flightmanager/FlightManager/Data/bin/Debug/net5.0/Data.dll
+/Users/kostadin/flightmanager/FlightManager/Data/bin/Debug/net5.0/ref/Data.dll
+/Users/kostadin/flightmanager/FlightManager/Data/bin/Debug/net5.0/Data.pdb
+/Users/kostadin/flightmanager/FlightManager/Data/obj/Debug/net5.0/Data.dll
+/Users/kostadin/flightmanager/FlightManager/Data/obj/Debug/net5.0/ref/Data.dll
+/Users/kostadin/flightmanager/FlightManager/Data/obj/Debug/net5.0/Data.pdb
+/Users/kostadin/flightmanager/FlightManager/Data/bin/Debug/net5.0/Data.runtimeconfig.json
+/Users/kostadin/flightmanager/FlightManager/Data/bin/Debug/net5.0/Data.runtimeconfig.dev.json
+/Users/kostadin/flightmanager/FlightManager/Data/obj/Debug/net5.0/Data.genruntimeconfig.cache
+C:\Users\andyt\Documents\Actual docs\it- kariera\Flight Manager\FlightManager\Data\bin\Debug\net5.0\Data.deps.json
+C:\Users\andyt\Documents\Actual docs\it- kariera\Flight Manager\FlightManager\Data\bin\Debug\net5.0\Data.runtimeconfig.json
+C:\Users\andyt\Documents\Actual docs\it- kariera\Flight Manager\FlightManager\Data\bin\Debug\net5.0\Data.runtimeconfig.dev.json
+C:\Users\andyt\Documents\Actual docs\it- kariera\Flight Manager\FlightManager\Data\bin\Debug\net5.0\Data.dll
+C:\Users\andyt\Documents\Actual docs\it- kariera\Flight Manager\FlightManager\Data\bin\Debug\net5.0\ref\Data.dll
+C:\Users\andyt\Documents\Actual docs\it- kariera\Flight Manager\FlightManager\Data\bin\Debug\net5.0\Data.pdb
+C:\Users\andyt\Documents\Actual docs\it- kariera\Flight Manager\FlightManager\Data\obj\Debug\net5.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andyt\Documents\Actual docs\it- kariera\Flight Manager\FlightManager\Data\obj\Debug\net5.0\Data.AssemblyInfoInputs.cache
+C:\Users\andyt\Documents\Actual docs\it- kariera\Flight Manager\FlightManager\Data\obj\Debug\net5.0\Data.AssemblyInfo.cs
+C:\Users\andyt\Documents\Actual docs\it- kariera\Flight Manager\FlightManager\Data\obj\Debug\net5.0\Data.csproj.CoreCompileInputs.cache
+C:\Users\andyt\Documents\Actual docs\it- kariera\Flight Manager\FlightManager\Data\obj\Debug\net5.0\Data.dll
+C:\Users\andyt\Documents\Actual docs\it- kariera\Flight Manager\FlightManager\Data\obj\Debug\net5.0\ref\Data.dll
+C:\Users\andyt\Documents\Actual docs\it- kariera\Flight Manager\FlightManager\Data\obj\Debug\net5.0\Data.pdb
+C:\Users\andyt\Documents\Actual docs\it- kariera\Flight Manager\FlightManager\Data\obj\Debug\net5.0\Data.genruntimeconfig.cache
+C:\Users\andyt\Documents\Actual docs\it- kariera\Flight Manager\FlightManager\Data\obj\Debug\net5.0\Data.csprojAssemblyReference.cache
+E:\visual studio\costadin-flightmanager-c76779d9763c\FlightManager\Data\bin\Debug\net5.0\Data.deps.json
+E:\visual studio\costadin-flightmanager-c76779d9763c\FlightManager\Data\bin\Debug\net5.0\Data.runtimeconfig.json
+E:\visual studio\costadin-flightmanager-c76779d9763c\FlightManager\Data\bin\Debug\net5.0\Data.runtimeconfig.dev.json
+E:\visual studio\costadin-flightmanager-c76779d9763c\FlightManager\Data\bin\Debug\net5.0\Data.dll
+E:\visual studio\costadin-flightmanager-c76779d9763c\FlightManager\Data\bin\Debug\net5.0\ref\Data.dll
+E:\visual studio\costadin-flightmanager-c76779d9763c\FlightManager\Data\bin\Debug\net5.0\Data.pdb
+E:\visual studio\costadin-flightmanager-c76779d9763c\FlightManager\Data\obj\Debug\net5.0\Data.csproj.AssemblyReference.cache
+E:\visual studio\costadin-flightmanager-c76779d9763c\FlightManager\Data\obj\Debug\net5.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+E:\visual studio\costadin-flightmanager-c76779d9763c\FlightManager\Data\obj\Debug\net5.0\Data.AssemblyInfoInputs.cache
+E:\visual studio\costadin-flightmanager-c76779d9763c\FlightManager\Data\obj\Debug\net5.0\Data.AssemblyInfo.cs
+E:\visual studio\costadin-flightmanager-c76779d9763c\FlightManager\Data\obj\Debug\net5.0\Data.csproj.CoreCompileInputs.cache
+E:\visual studio\costadin-flightmanager-c76779d9763c\FlightManager\Data\obj\Debug\net5.0\Data.dll
+E:\visual studio\costadin-flightmanager-c76779d9763c\FlightManager\Data\obj\Debug\net5.0\ref\Data.dll
+E:\visual studio\costadin-flightmanager-c76779d9763c\FlightManager\Data\obj\Debug\net5.0\Data.pdb
+E:\visual studio\costadin-flightmanager-c76779d9763c\FlightManager\Data\obj\Debug\net5.0\Data.genruntimeconfig.cache
+C:\Users\Ива\OneDrive\Документи\visual studio\visual studio\costadin-flightmanager-c76779d9763c (2)\costadin-flightmanager-c76779d9763c\FlightManager\Data\bin\Debug\net5.0\Data.deps.json
+C:\Users\Ива\OneDrive\Документи\visual studio\visual studio\costadin-flightmanager-c76779d9763c (2)\costadin-flightmanager-c76779d9763c\FlightManager\Data\bin\Debug\net5.0\Data.runtimeconfig.json
+C:\Users\Ива\OneDrive\Документи\visual studio\visual studio\costadin-flightmanager-c76779d9763c (2)\costadin-flightmanager-c76779d9763c\FlightManager\Data\bin\Debug\net5.0\Data.runtimeconfig.dev.json
+C:\Users\Ива\OneDrive\Документи\visual studio\visual studio\costadin-flightmanager-c76779d9763c (2)\costadin-flightmanager-c76779d9763c\FlightManager\Data\bin\Debug\net5.0\Data.dll
+C:\Users\Ива\OneDrive\Документи\visual studio\visual studio\costadin-flightmanager-c76779d9763c (2)\costadin-flightmanager-c76779d9763c\FlightManager\Data\bin\Debug\net5.0\ref\Data.dll
+C:\Users\Ива\OneDrive\Документи\visual studio\visual studio\costadin-flightmanager-c76779d9763c (2)\costadin-flightmanager-c76779d9763c\FlightManager\Data\bin\Debug\net5.0\Data.pdb
+C:\Users\Ива\OneDrive\Документи\visual studio\visual studio\costadin-flightmanager-c76779d9763c (2)\costadin-flightmanager-c76779d9763c\FlightManager\Data\obj\Debug\net5.0\Data.csproj.AssemblyReference.cache
+C:\Users\Ива\OneDrive\Документи\visual studio\visual studio\costadin-flightmanager-c76779d9763c (2)\costadin-flightmanager-c76779d9763c\FlightManager\Data\obj\Debug\net5.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ива\OneDrive\Документи\visual studio\visual studio\costadin-flightmanager-c76779d9763c (2)\costadin-flightmanager-c76779d9763c\FlightManager\Data\obj\Debug\net5.0\Data.AssemblyInfoInputs.cache
+C:\Users\Ива\OneDrive\Документи\visual studio\visual studio\costadin-flightmanager-c76779d9763c (2)\costadin-flightmanager-c76779d9763c\FlightManager\Data\obj\Debug\net5.0\Data.AssemblyInfo.cs
+C:\Users\Ива\OneDrive\Документи\visual studio\visual studio\costadin-flightmanager-c76779d9763c (2)\costadin-flightmanager-c76779d9763c\FlightManager\Data\obj\Debug\net5.0\Data.csproj.CoreCompileInputs.cache
+C:\Users\Ива\OneDrive\Документи\visual studio\visual studio\costadin-flightmanager-c76779d9763c (2)\costadin-flightmanager-c76779d9763c\FlightManager\Data\obj\Debug\net5.0\Data.dll
+C:\Users\Ива\OneDrive\Документи\visual studio\visual studio\costadin-flightmanager-c76779d9763c (2)\costadin-flightmanager-c76779d9763c\FlightManager\Data\obj\Debug\net5.0\ref\Data.dll
+C:\Users\Ива\OneDrive\Документи\visual studio\visual studio\costadin-flightmanager-c76779d9763c (2)\costadin-flightmanager-c76779d9763c\FlightManager\Data\obj\Debug\net5.0\Data.pdb
+C:\Users\Ива\OneDrive\Документи\visual studio\visual studio\costadin-flightmanager-c76779d9763c (2)\costadin-flightmanager-c76779d9763c\FlightManager\Data\obj\Debug\net5.0\Data.genruntimeconfig.cache
